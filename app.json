@@ -1,0 +1,54 @@
+{
+  "person": {
+    "first_name": "Kiss",
+    "last_name": "Ákos",
+    "id": "EAPYMTOFZS23",
+    "lic_number": 8762443,
+    "payments": {
+      "payment_1": {
+        "payment_ID": "EPAYMT8Z6T",
+        "payment_method": "Bankkártya",
+        "warranty_until": "2019.07.01",
+        "last_payment": "2019.06.25",
+        "payment_sum": 5000,
+        "payment_status": "Folyamatban",
+        "warranty_length": "2019.06.02 - 07.01",
+        "warranty_value": 5000,
+        "booked_price": 5000
+      },
+      "payment_2": {
+        "payment_ID": 43213241,
+        "payment_method": "Átutalás",
+        "warranty_until": "2019.07.01",
+        "last_payment": "2019.06.25",
+        "payment_sum": 5000,
+        "payment_status": "Beérkezett",
+        "warranty_length": "2019.06.02 - 07.01",
+        "warranty_value": 5000,
+        "booked_price": 5000
+      },
+      "payment_3": {
+        "payment_ID": "EPAYMT8Z7T",
+        "payment_method": "Bankkártya",
+        "warranty_until": "2019.07.01",
+        "last_payment": "2019.06.25",
+        "payment_sum": 5000,
+        "payment_status": "Sikertelen",
+        "warranty_length": "2019.06.02 - 07.01",
+        "warranty_value": 5000,
+        "booked_price": 5000
+      },
+      "payment_4": {
+        "payment_ID": "EPAYMT8Z8T",
+        "payment_method": "Bankkártya",
+        "warranty_until": "2019.07.01",
+        "last_payment": "2019.06.25",
+        "payment_sum": 5000,
+        "payment_status": "Beérkezett",
+        "warranty_length": "2019.06.02 - 07.01",
+        "warranty_value": 5000,
+        "booked_price": 5000
+      }
+    }
+  }
+}
